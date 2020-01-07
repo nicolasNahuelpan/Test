@@ -70,11 +70,11 @@ export let options = {
     stages: [
         {
             "duration": "210s",
-            "target": 5000
+            "target": 50
         },
         {
             "duration": "210s",
-            "target": 5000
+            "target": 50
         },
         {
             "duration": "210s",
