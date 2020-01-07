@@ -69,15 +69,15 @@ let waitingTime = new Trend("WaitingTime");
 export let options = {
     stages: [
         {
-            "duration": "210s",
+            "duration": "10s",
             "target": 50
         },
         {
-            "duration": "210s",
+            "duration": "10s",
             "target": 50
         },
         {
-            "duration": "210s",
+            "duration": "10s",
             "target": 0
 				}
 		],
